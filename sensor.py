@@ -1,2 +1,2 @@
-temperatura = 26.5
+temperatura = 27.0;
 print(f"Sensor ativo: {temperatura} C")
